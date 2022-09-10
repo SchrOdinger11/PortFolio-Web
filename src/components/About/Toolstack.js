@@ -7,6 +7,7 @@ import {
   SiPostman,
   SiJupyter,
   SiHeroku,
+
   SiVercel,
 } from "react-icons/si";
 
@@ -26,7 +27,7 @@ function Toolstack() {
         <FiFigma /><div><h2>Figma</h2></div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku /><div><h2>Heroku</h2></div>
+        <SiPostman /><div><h2>Postman</h2></div>
       </Col>
     </Row>
   );
