@@ -1,7 +1,20 @@
 import { BiBluetooth } from "react-icons/bi";
 import sk from "../../Assets/Projects/sk_skinzy_logo.jpeg";
-import c from "../../Assets/Projects/sk_carjoz_logo.png";
+import c from "../../Assets/Projects/smollan.jpeg";
  export const experience = [
+
+
+	{
+		role: "Data Intern",
+		company: "Smollan",
+		
+		//companylogo:"#",
+		
+		companylogo: c,
+		date: "September 2022 – Present",
+		desc: "Working on google's analysis project \"SYMPHONY\" .Optimized crawler scripts to fetch data from different ecommerce website, automated process of capturing information of the product's page.The captured data is further used in understanding and deciding the price points of new products in various geographies all across the world.   ",
+	
+	},
 	{
 		role: "Software Research Intern",
 		company: "Skinzy Software Solutions Pvt Ltd.",
@@ -13,13 +26,14 @@ import c from "../../Assets/Projects/sk_carjoz_logo.png";
 		desc: "I worked with the ML and frontend team.Developed a deep learning based model which can identify oily and dry skin from clinical images. Built the frontend in reactJs to deploy the model on the website.The API of the model was built in Django.Worked on building a quiz app which was responsive webapp in react typescript. With  different login systems for admin as well as the user ",
 	
 	},
-	{
-		role: "Entrepreneurship Intern",
-		company: "Carjoz India",
-		companylogo: c,
-		date: "June 2020 - November 2020",
-		desc: "This was my first internship experience.As a entreprenurship intern I was responsible for finding and analysing various datapoints that prompts a user to buy a particular car.Worked on marketing campaign to enhance the customer base of the company.Collaborated with the UI team to build the design of the carjoz app.",
-	},
+
+	// {
+	// 	role: "Entrepreneurship Intern",
+	// 	company: "Carjoz India",
+	// 	companylogo: c,
+	// 	date: "June 2020 - November 2020",
+	// 	desc: "This was my first internship experience.As a entreprenurship intern I was responsible for finding and analysing various datapoints that prompts a user to buy a particular car.Worked on marketing campaign to enhance the customer base of the company.Collaborated with the UI team to build the design of the carjoz app.",
+	// },
 
 ];
 

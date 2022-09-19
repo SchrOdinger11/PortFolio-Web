@@ -6,7 +6,7 @@ import WorkExpMain from "./WorkExpMain.js"
 import Publication from "./Publication.js"
 import Particle from "../Particle";
 import algo from "../../Assets/Projects/sk_algo.png";
-import weather from "../../Assets/Projects/sk_weather.png";
+import weather from "../../Assets/Projects/sk_weather.jpeg";
 import portfolio from "../../Assets/Projects/ayush.jpeg";
 import um from "../../Assets/Projects/SK_umeed.png";
 
@@ -40,19 +40,16 @@ function Projects() {
           </Col>
 
 
-
-
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ros}
+              imgPath={music}
               isBlog={false}
-              title="ROS Scanner"
-              description="Android Application based on Optical Character Recognition built in android studio using Java , Xml, Figma , FireBase and ML SDK Kit APIs. Have features such as text detection, language identification and translation, Text to speech conversion and more!"
-              link="https://github.com/SchrOdinger11/Ros-Scanner-V2"
+              title="Music Recommender System using Deep Networks"
+              description="Developed a deep learning model for music recommendation which is based on emotion detection and face recognition.The final music is added into personalised spotify user playlist."
+              link="https://github.com/SchrOdinger11/RecommendationMusic"
             />
           </Col>
 
-         
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -73,17 +70,23 @@ function Projects() {
               link="https://github.com/SchrOdinger11/AlgoVisualizer"
             />
           </Col>
-
-
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={music}
+              imgPath={ros}
               isBlog={false}
-              title="Music Recommender System using Deep Networks"
-              description="Developed a deep learning model for music recommendation which is based on emotion detection and face recognition.The final music is added into personalised spotify user playlist."
-              link="https://github.com/SchrOdinger11/RecommendationMusic"
+              title="ROS Scanner"
+              description="Android Application based on Optical Character Recognition built in android studio using Java , Xml, Figma , FireBase and ML SDK Kit APIs. Have features such as text detection, language identification and translation, Text to speech conversion and more!"
+              link="https://github.com/SchrOdinger11/Ros-Scanner-V2"
             />
           </Col>
+
+         
+
+
+       
+
+
+
 
 
 
@@ -91,8 +94,8 @@ function Projects() {
             <ProjectCard
               imgPath={weather}
               isBlog={false}
-              title="What's the weather "
-              description="Developed in android studio it fetches weather details of a city entered and displays it to the user.Makes use of API call to fetch the JSON data which is parsed to display the weather."
+              title="Skin Cancer Detection "
+              description="A skin cancer detection model based on CNNs, gives an accuracy of 82%.It can detect 7 different types of cancer.The model is deployed on the backend with a flask web app in.Click an image , upload it and get a prediction!"
               link="https://github.com/SchrOdinger11/What-s-The-Weather"
             />
           </Col>
