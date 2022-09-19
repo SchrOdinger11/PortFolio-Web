@@ -17,7 +17,7 @@ html {
 }
 
 .purple {
-  color: var(--imp-text-color) !important;
+  color: rgb(235, 79, 154) !important;
 }
 
 button:focus {
@@ -292,14 +292,14 @@ button:focus {
 .main-name {
   /* color: #cd5ff8; */
 
-  color: #2176f5;
+  color: #f521b2;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
   /* color: #be6adf !important; */
 
-  color: #0d479e;
+  color: #880d9e;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {

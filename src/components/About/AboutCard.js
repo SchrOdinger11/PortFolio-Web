@@ -33,7 +33,7 @@ function AboutCard() {
               </i>
               <br />
               <br />
-              I have also started to learn and explore the web. Trying my hands on  <b className="purple">Node.js</b> and
+              I have also started to learn and explore the web and blockchain. Trying my hands on  <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -43,6 +43,14 @@ function AboutCard() {
               &nbsp; like
               <i>
                 <b className="purple"> React.js. </b>
+              </i>
+              along with 
+              <i>
+                <b className="purple"> Etherium </b>
+              </i>
+              and 
+              <i>
+                <b className="purple"> Solidity </b>
               </i>
             </p>
             </Row>
