@@ -5,7 +5,7 @@ import c from "../../Assets/Projects/smollan.jpeg";
 
 
 	{
-		role: "Data Intern",
+		role: "Technology Consultant Intern",
 		company: "Smollan",
 		
 		//companylogo:"#",
