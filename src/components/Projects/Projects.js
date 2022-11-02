@@ -6,7 +6,7 @@ import WorkExpMain from "./WorkExpMain.js"
 import Publication from "./Publication.js"
 import Particle from "../Particle";
 import algo from "../../Assets/Projects/sk_algo.png";
-import weather from "../../Assets/Projects/sk_weather.jpeg";
+import weather from "../../Assets/Projects/sk_weather.png";
 import portfolio from "../../Assets/Projects/ayush.jpeg";
 import um from "../../Assets/Projects/SK_umeed.png";
 
@@ -39,6 +39,22 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={weather}
+              isBlog={false}
+              title="Rush Estimator For Corporate Cafeteria "
+              description="Created a cafeteria footfall predictor application with inventory management and revenue prediction features using ReactJs,NextJs,MongoDB and Machine Learning techniques."
+              link="https://github.com/J0SAL/ibm-rush-estimator.git"
+            />
+
+
+
+
+
+
+       
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -83,22 +99,6 @@ function Projects() {
          
 
 
-       
-
-
-
-
-
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={weather}
-              isBlog={false}
-              title="Skin Cancer Detection "
-              description="A skin cancer detection model based on CNNs, gives an accuracy of 82%.It can detect 7 different types of cancer.The model is deployed on the backend with a flask web app in.Click an image , upload it and get a prediction!"
-              link="https://github.com/SchrOdinger11/What-s-The-Weather"
-            />
-          </Col>
         </Row>
        <WorkExpMain></WorkExpMain>
       <Publication/>
