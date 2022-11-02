@@ -5,7 +5,8 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import sudha from "../../Assets/sudhanshu.jpeg"
-
+import codings from "./coding.json"
+import AnimationLottie from '../About/CollegeLife/Animation.js';
 function Home() {
   return (
     <section>
@@ -23,7 +24,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> SUDHANSHU  KULKARNI</strong>
+                <strong className="main-name"> SUDHANSHU KULKARNI</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -32,12 +33,16 @@ function Home() {
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
-              <img
+            <div className="about-animation">
+                        <AnimationLottie animationPath={codings} />
+                    </div>
+
+              {/* <img
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}
-              />
+              /> */}
             </Col>
           </Row>
         </Container>
