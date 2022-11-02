@@ -1,13 +1,13 @@
 import React, { useContext } from 'react';
-import education from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/CollegeLife/education.json';
+import education from '../About/CollegeLife/education.json';
 
 
-import '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/CollegeLife/Education.css';
-import EducationCard from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/CollegeLife/EducationCard.js';
+import '../About/CollegeLife/Education.css';
+import EducationCard from '../About/CollegeLife/EducationCard.js';
 
 import { Container } from '@material-ui/core';
-import { educationData } from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/CollegeLife/educationData.js';
-import AnimationLottie from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/CollegeLife/Animation.js';
+import { educationData } from '../About/CollegeLife/educationData.js';
+import AnimationLottie from '../About/CollegeLife/Animation.js';
 
 function Education() {
 

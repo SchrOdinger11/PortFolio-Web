@@ -1,13 +1,13 @@
 import React, { useContext } from 'react';
-import experience from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/Achievements/development.json';
+// import experience from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/Achievements/development.json';
+import experience from '../About/Achievements/development.json'
 
-
-import '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/Achievements/Experience.css';
+import '../About/Achievements/Experience.css';
 
 import { Container } from '@material-ui/core';
-import { experienceData } from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/Achievements/experienceData.js';
-import AnimationLottie from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/CollegeLife/Animation.js';
-import ExperienceCard from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/Achievements/ExperienceCard.js';
+import { experienceData } from '../About/Achievements/experienceData.js';
+import AnimationLottie from '../About/CollegeLife/Animation.js';
+import ExperienceCard from '../About/Achievements/ExperienceCard.js';
 
 function Experience() {
 

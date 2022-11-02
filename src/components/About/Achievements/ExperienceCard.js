@@ -7,7 +7,7 @@ import Fade from 'react-reveal/Fade';
 // import expImgBlack from '../../assets/svg/experience/expImgBlack.svg';
 // import expImgWhite from '../../assets/svg/experience/expImgWhite.svg';
 
-import '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/Achievements/Experience.css';
+import './Experience.css';
 
 function ExperienceCard({id, company, jobtitle, startYear, endYear}) {
 
