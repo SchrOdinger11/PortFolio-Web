@@ -1,7 +1,9 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
+import Achievements from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/Achievements.js'
 import Github from "./Github";
+import CollegeLife from "./CollegeLife";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/Programming-amico.svg";
@@ -32,6 +34,18 @@ function About() {
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
+        <h1 className="project-heading">
+          Extra <strong className="purple">Curriculars </strong>
+        </h1>
+
+
+
+        <CollegeLife/>
+        <h1 className="project-heading">
+           <strong className="purple">Recognition </strong>
+        </h1>
+         <Achievements/>   
+
         <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>
