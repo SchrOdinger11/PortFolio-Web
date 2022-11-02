@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import Achievements from '/Users/sudhanshu/Desktop/personal-website/Portfolio/src/components/About/Achievements.js'
+import Achievements from '../About/Achievements.js'
 import Github from "./Github";
 import CollegeLife from "./CollegeLife";
 import Techstack from "./Techstack";
