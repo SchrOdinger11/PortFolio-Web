@@ -40,7 +40,7 @@ function Techstack() {
         <SiTensorflow /><div><h2>Tensorflow</h2></div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit /><div><h2>Java</h2></div>
+        <DiGit /><div><h2>Git</h2></div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase /><div><h2>FireBase</h2></div>
