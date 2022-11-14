@@ -12,6 +12,7 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
+  SiMongodb,
   SiMysql,
   SiPytorch,
   SiFirebase,
@@ -47,7 +48,7 @@ function Techstack() {
         <SiFirebase /><div><h2>FireBase</h2></div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython /><div><h2>Python</h2></div>
+        <SiMongodb /><div><h2>MongoDb</h2></div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMysql /><div><h2>SQL</h2></div>
