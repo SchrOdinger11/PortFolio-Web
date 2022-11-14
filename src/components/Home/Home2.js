@@ -41,7 +41,7 @@ function Home2() {
               getting stuck and then learning new things ,it's been fun! and I think I have at least learnt something 🤷‍♂️
 
 
-            <br />I am a senior pursuing engineering in Electronics and Telecommunication from Sardar Patel Institute of Technology, Mumbai.
+            <br />I am in my senior year pursuing engineering in Electronics and Telecommunication from Sardar Patel Institute of Technology, Mumbai.
    
             <br />
             <br />
