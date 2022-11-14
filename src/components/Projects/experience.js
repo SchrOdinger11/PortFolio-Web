@@ -45,7 +45,7 @@ export const pub = [
 		title: "Music Recommendation System based on Emotion Detection using Image Processing and Deep Networks",
 		place: "2022 International Conference on Intelligent Technologies|IEEE ",
 		
-		link:"https://ijettjournal.org/archive/ijett-v70i7p202",
+		link:"https://ieeexplore.ieee.org/document/9847888",
 		date: "June 24-25 2022",
 		desc: "Developed a music recommnendation system which incorporates face detection and recognition.Multitask Cascade Convolution Neural Network (MTCNN) and FACENETs were used for face detection and recognition.Traditional CNNs and SVM were used for mood prediction and song recommnedation respectively.  ",
 	
@@ -53,7 +53,7 @@ export const pub = [
 	{
 		title: "Deep Scattering Convolutional Network For Dry & Oily Skin Classification",
 		place: " International Journal of Engineering Trends and Technology (IJETT) ",
-		link:"https://ieeexplore.ieee.org/document/9847888",
+		link:"https://ijettjournal.org/archive/ijett-v70i7p202",
 		
 		date: "18 July 2022",
 		desc: "Built a skin texture detection model  which helps in determining wether the skin is oily or dry.The model performs better than other existing models.It incorporates image processing of the raw image followed by an architecutre consisting of Scattering Networks, RESNets, and Artifial Neural Networks.  ",
