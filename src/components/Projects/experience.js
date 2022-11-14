@@ -11,7 +11,7 @@ import c from "../../Assets/Projects/smollan.jpeg";
 		//companylogo:"#",
 		
 		companylogo: c,
-		date: "September 2022 – Present",
+		date: "September 2022 – November 2022",
 		desc: "Working on google's analysis project \"SYMPHONY\" .Optimized crawler scripts to fetch data from different ecommerce website, automated process of capturing information of the product's page.The captured data is further used in understanding and deciding the price points of new products in various geographies all across the world.   ",
 	
 	},
@@ -22,7 +22,7 @@ import c from "../../Assets/Projects/smollan.jpeg";
 		//companylogo:"#",
 		
 		companylogo: sk,
-		date: "October 2021 – June 2022",
+		date: "October 2021 – July 2022",
 		desc: "I worked with the ML and frontend team.Developed a deep learning based model which can identify oily and dry skin from clinical images. Built the frontend in reactJs to deploy the model on the website.The API of the model was built in Django.Worked on building a quiz app which was responsive webapp in react typescript. With  different login systems for admin as well as the user ",
 	
 	},
