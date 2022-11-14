@@ -12,6 +12,7 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
+  SiMysql
   SiPytorch,
   SiFirebase,
   
@@ -49,7 +50,7 @@ function Techstack() {
         <DiPython /><div><h2>Python</h2></div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPytorch /><div><h2>Pytorch</h2></div>
+        <SiMysql /><div><h2>SQL</h2></div>
       </Col>
     </Row>
   );
