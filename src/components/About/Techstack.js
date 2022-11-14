@@ -12,7 +12,7 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiMysql
+  SiMysql,
   SiPytorch,
   SiFirebase,
   
