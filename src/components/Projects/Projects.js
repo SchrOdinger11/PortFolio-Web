@@ -45,7 +45,7 @@ function Projects() {
               isBlog={false}
               title="Rush Estimator For Corporate Cafeteria "
               description="Created a cafeteria footfall predictor application with inventory management and revenue prediction features using ReactJs,NextJs,MongoDB and Machine Learning techniques."
-              link="https://github.com/J0SAL/ibm-rush-estimator.git"
+              link="https://github.com/SchrOdinger11/Rush-Estimator-for-Corporate-Cafeteria"
             />
 
 
