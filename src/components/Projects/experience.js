@@ -1,8 +1,16 @@
 import { BiBluetooth } from "react-icons/bi";
 import sk from "../../Assets/Projects/sk_skinzy_logo.jpeg";
 import c from "../../Assets/Projects/smollan.jpeg";
+import i from "../../Assets/Projects/ibm_logo.png";
  export const experience = [
 
+		{
+		role: "Software Development Intern",
+		company: "IBM ",
+		companylogo:i,
+		date: "February 2023 -  Present",
+		desc: "IBM Cloud- Continous Delivery System: Building systems for seamless deployment of your application! "
+		},
 
 	{
 		role: "Technology Consultant Intern",
@@ -27,13 +35,7 @@ import c from "../../Assets/Projects/smollan.jpeg";
 	
 	},
 
-	// {
-	// 	role: "Entrepreneurship Intern",
-	// 	company: "Carjoz India",
-	// 	companylogo: c,
-	// 	date: "June 2020 - November 2020",
-	// 	desc: "This was my first internship experience.As a entreprenurship intern I was responsible for finding and analysing various datapoints that prompts a user to buy a particular car.Worked on marketing campaign to enhance the customer base of the company.Collaborated with the UI team to build the design of the carjoz app.",
-	// },
+
 
 ];
 
