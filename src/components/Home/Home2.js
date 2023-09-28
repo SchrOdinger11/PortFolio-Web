@@ -36,12 +36,12 @@ function Home2() {
             <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Sudhanshu Kulkarni </span>
-            from <span className="purple"> Mumbai, India.</span><br/>
+            currently in <span className="purple"> Amherst, Massachusetts.</span><br/>
             I was 15 when I wrote my first line of code and since then it has been a roller-coster ride 
               getting stuck and then learning new things ,it's been fun! and I think I have at least learnt something 🤷‍♂️
 
 
-            <br />I am in my senior year pursuing engineering in Electronics and Telecommunication from Sardar Patel Institute of Technology, Mumbai.
+            <br />I am a first year Masters student with a majors in Computer Science at University of Massachusetts Amherst.
    
             <br />
             <br />

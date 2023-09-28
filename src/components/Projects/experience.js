@@ -9,7 +9,7 @@ import i from "../../Assets/Projects/ibm_logo.png";
 		company: "IBM ",
 		companylogo:i,
 		date: "February 2023 -  Present",
-		desc: "IBM Cloud- Continous Delivery System: Building systems for seamless deployment of your application! "
+		desc: "IBM Cloud- Continous Delivery Service: Building systems for seamless deployment of your application! "
 		},
 
 	{
