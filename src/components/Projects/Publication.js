@@ -2,7 +2,7 @@ import React from "react";
 import { pub } from "./experience.js";
 import { Container, Row } from "reactstrap";
 import PublicationCard from "./PublicationCard.js"
-import { Fade } from "react-reveal";
+
 
 import WorkExp from "./WorkExp";
 

@@ -2,7 +2,7 @@ import React from "react";
 import { experience } from "./experience.js";
 import { Container, Row } from "reactstrap";
 
-import { Fade } from "react-reveal";
+
 
 import WorkExp from "./WorkExp";
 
