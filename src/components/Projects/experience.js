@@ -8,7 +8,7 @@ import i from "../../Assets/Projects/ibm_logo.png";
 		role: "Software Development Intern",
 		company: "IBM ",
 		companylogo:i,
-		date: "February 2023 -  Present",
+		date: "February 2023 -  August 2023",
 		desc: "IBM Cloud- Continous Delivery Service: Building systems for seamless deployment of your application! "
 		},
 

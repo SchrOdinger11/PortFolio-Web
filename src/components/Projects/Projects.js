@@ -11,7 +11,7 @@ import portfolio from "../../Assets/Projects/ayush.jpeg";
 import um from "../../Assets/Projects/SK_umeed.png";
 
 import music from "../../Assets/Projects/sk_music.png";
-import ros from "../../Assets/Projects/SK_ROS.jpg";
+import ros from "../../Assets/Projects/reinforcement.png";
 
 function Projects() {
   return (
@@ -90,9 +90,9 @@ function Projects() {
             <ProjectCard
               imgPath={ros}
               isBlog={false}
-              title="ROS Scanner"
-              description="Android Application based on Optical Character Recognition built in android studio using Java , Xml, Figma , FireBase and ML SDK Kit APIs. Have features such as text detection, language identification and translation, Text to speech conversion and more!"
-              link="https://github.com/SchrOdinger11/Ros-Scanner-V2"
+              title="Reinforcement Learning "
+              description="Reinforcement Learning (RL) is a subfield of machine learning that focuses on training agents to make sequences of decisions in an environment to maximize a cumulative reward. Unlike supervised learning, where the model is trained on labeled examples, and unsupervised learning, where the model finds patterns in unlabeled data, reinforcement learning involves an agent interacting with an environment and learning from the consequences of its actions. "
+              link="https://github.com/SchrOdinger11/Reinforcement-Learning-.git"
             />
           </Col>
 
