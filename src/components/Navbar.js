@@ -86,7 +86,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-              href="  https://drive.google.com/file/d/1MdMInK-FiOUpOWxuiZaJjonnAl_D1hNi/view?usp=sharing"
+              href="  https://drive.google.com/file/d/1zLnYPdxcx3UGthhew_e6WvWmsRYkNv7-/view?usp=sharing"
                 // as={Link}
                 // to="/resume"
                 onClick={() => updateExpanded(false)}
