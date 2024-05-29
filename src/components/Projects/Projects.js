@@ -41,6 +41,15 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={um}
+              isBlog={false}
+              title="Context-Aware-Image-Text-Integration-for-Improved-Vision-based-Question-Answering"
+              description=" Exploring question-aware image-text integration techniques that prioritize relevant image features in response to specific queries."
+              link="https://github.com/SchrOdinger11/Context-Aware-Image-Text-Integration-for-Improved-Vision-based-Question-Answering"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={weather}
               isBlog={false}
               title="Rush Estimator For Corporate Cafeteria "
@@ -67,15 +76,7 @@ function Projects() {
           </Col>
 
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={um}
-              isBlog={false}
-              title="Umeed-Disaster Management App"
-              description="A disaster management which has features such as emergency calling, messaging and locating nearby emergency locations etc. Developed in Android Java"
-              link="https://github.com/SchrOdinger11/Umeed_Disaster_Management"
-            />
-          </Col>
+
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -86,11 +87,12 @@ function Projects() {
               link="https://github.com/SchrOdinger11/AlgoVisualizer"
             />
           </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={ros}
               isBlog={false}
-              title="Reinforcement Learning "
+              title="Reinforcement Learning"
               description="Reinforcement Learning (RL) is a subfield of machine learning that focuses on training agents to make sequences of decisions in an environment to maximize a cumulative reward. Unlike supervised learning, where the model is trained on labeled examples, and unsupervised learning, where the model finds patterns in unlabeled data, reinforcement learning involves an agent interacting with an environment and learning from the consequences of its actions. "
               link="https://github.com/SchrOdinger11/Reinforcement-Learning-.git"
             />
