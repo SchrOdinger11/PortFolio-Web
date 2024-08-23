@@ -2,7 +2,7 @@ export const experienceData = [
 
     {
         id: 1,
-        company: 'Ranked 2382 globally out of 10000 teams who could achieve a non-zero score. Google Hashcode is a programming competition where teams have to provide solution to an engieering problem.',
+        company: 'Rated 1836 on leetcode , considered to be in top 6% of the worldwide coders in leetcode contests.',
         jobtitle: 'Top 6% in leetcode contest',
         startYear: ' ',
         endYear: ' '
