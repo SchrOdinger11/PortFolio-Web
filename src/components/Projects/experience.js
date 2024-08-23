@@ -2,7 +2,16 @@ import { BiBluetooth } from "react-icons/bi";
 import sk from "../../Assets/Projects/sk_skinzy_logo.jpeg";
 import c from "../../Assets/Projects/smollan.jpeg";
 import i from "../../Assets/Projects/ibm_logo.png";
+import e from "../../Assets/Projects/download.jpeg";
  export const experience = [
+
+	{
+		role: "Software Development Intern",
+		company: "eclinicalWorks ",
+		companylogo:e,
+		date: "June 2024 -  August 2024",
+		desc: "Built internal utility full stack app in jsp, servlet, mysql and created jenkin job for its build process. Created various gradle tasks (in groovy) to organize and secure WAR files, incorporating password protection and creating differential build for the application.  "
+		},
 
 		{
 		role: "Software Development Intern",
@@ -61,8 +70,18 @@ export const pub = [
 		desc: "Built a skin texture detection model  which helps in determining wether the skin is oily or dry.The model performs better than other existing models.It incorporates image processing of the raw image followed by an architecutre consisting of Scattering Networks, RESNets, and Artifial Neural Networks.  ",
 	
 	},
+	{
+		title: "Digital Healthcare System",
+		place: " International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)) ",
+		link:"https://www.irjmets.com/paperdetail.php?paperId=373688de0e5c3c93d801571c8c11d7f4&title=Digital+Healthcare+System&authpr=Dylan+Dsouza",
+		
+		date: "26 April 2023",
+		desc: "Created a decentralized system that stores crucial patient information that can only be accessed by a select group of people, we aim to address this significant issue. A system is proposed that uses artificial intelligence to enhance early disease detection using user-entered images and symptoms. Additionally, only doctors and researchers will be able to access the crucial records and information that will be stored safely on the Ethereum-powered blockchain.  ",
+	
+	}
+]
 
-];
+	
 
 
 
