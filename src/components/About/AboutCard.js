@@ -46,7 +46,7 @@ function AboutCard() {
               </i>
               along with 
               <i>
-                <b className="purple"> Etherium </b>
+                <b className="purple"> Ethereum </b>
               </i>
               and 
               <i>
