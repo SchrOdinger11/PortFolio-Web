@@ -2,8 +2,8 @@ export const experienceData = [
 
     {
         id: 1,
-        company: 'Rated 1836 on leetcode , considered to be in top 6% of the worldwide coders in leetcode contests.',
-        jobtitle: 'Top 6% in leetcode contest',
+        company: 'Rated 1932 on leetcode , considered to be in top 3.72% of the worldwide coders in leetcode contests.',
+        jobtitle: 'Top 3.72% in leetcode contest',
         startYear: ' ',
         endYear: ' '
     },

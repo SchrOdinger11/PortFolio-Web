@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Courses from "./courses.js"
 import WorkExpMain from "./WorkExpMain.js"
+import ResearchExpMain from "./researchExpMain.js"
 import Publication from "./Publication.js"
 import Particle from "../Particle";
 import algo from "../../Assets/Projects/sk_algo.png";
@@ -103,6 +104,7 @@ function Projects() {
 
         </Row>
        <WorkExpMain></WorkExpMain>
+      {/* <ResearchExpMain/> */}
       <Publication/>
        <Courses/>
       </Container>

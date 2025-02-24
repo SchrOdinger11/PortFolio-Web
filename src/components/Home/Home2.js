@@ -41,7 +41,7 @@ function Home2() {
               getting stuck and then learning new things ,it's been fun! and I think I have at least learnt something 🤷‍♂️
 
 
-            <br />I am a first year Masters student with a majors in Computer Science at University of Massachusetts Amherst.
+            <br />I am a second year Masters student with a majors in Computer Science at University of Massachusetts Amherst.
    
             <br />
             <br />
